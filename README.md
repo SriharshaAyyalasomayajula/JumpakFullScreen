@@ -1,1 +1,1 @@
-# JumpakFullScreen
+# Jumpak
